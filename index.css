@@ -1,0 +1,53 @@
+ body 
+    {
+        background-color:#332f2f;
+        margin-right: 50px;
+        margin-left: 50px;
+        margin-top:10px;
+        font-family: "Arial";
+    }
+nav
+    {
+        background-color: black;
+        text-align: center;
+        border: 2px;
+        border-width: 5px;
+        border-style: thick;
+        border-color: black;
+        margin-top: 5px;
+        margin-right:;
+        font-size: 20px;
+        color: FFFF00;
+    }
+    
+    /* chinging colours of links as they are visited */
+a { color:Green } /* Globally */
+
+/* Each state */
+
+    a:visited { text-decoration: none; color:FFFF00; }
+    a:hover { text-decoration: none; color:FFFF00; }
+    a:focus { text-decoration: none; color:FFFF00; }
+    a:hover, a:active { text-decoration: none; color:FFFF00 }
+    
+.notice
+    {
+        margin-top: 5px;
+        background-color: green;
+        margin-right: 
+    }
+.profile
+    {
+        width:25%;
+        height:63%;
+        background-color: green;
+        margin-top: 10px;
+        border:1px solid black;
+        text-align:center;
+    }
+footer
+    {
+        text-align: right;
+        margin-top: 45px;
+    }
+     
